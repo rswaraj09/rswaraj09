@@ -8,7 +8,7 @@
 
 ## Operating principles
 
-<pre><code>ROLE        = Frontend or full-stack engineer
+<pre><code>ROLE        = Full-stack engineer
 LOCATION    = Mumbai, Maharashtra 
 PUBLIC_REPOS = 30+
 COMMUNITY   = 10 followers</code></pre>
