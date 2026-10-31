@@ -1,26 +1,57 @@
-# 💫 About Me:
-Hi 👋, I'm Ritik Swaraj  <br><br>🚀 A passionate Software Engineer & AI enthusiast from India  <br>💻 Skilled in Java, Python, Web Development, and AI/ML  <br>🧠 I love building real-world problem-solving projects using technology  <br><br><br>🌱 Currently improving my DSA, system design, and scalable backend development  <br>🏆 Hackathon participant | Open-source learner
+## Delivery pipeline
 
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=rswaraj09&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F173189601%3Fu%3D4be4c88953e99b9da4664ce642b90b8c1c6be4a9%26v%3D4" alt="rswaraj09 hero visual" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/r.swaraj09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritik-swaraj-b54812314) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contactritikswaraj@gmail.com) 
+**Ritik Swaraj** · Frontend or full-stack engineer
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+## Operating principles
 
+<pre><code>ROLE        = Frontend or full-stack engineer
+LOCATION    = Mumbai, Maharashtra 
+PUBLIC_REPOS = 29
+COMMUNITY   = 10 followers</code></pre>
 
+Building useful things and learning in public.
 
-<!--
-**rswaraj09/rswaraj09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Uptime in motion
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=rswaraj09&theme=github-dark" alt="rswaraj09 contribution activity" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Service signals
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=rswaraj09&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F173189601%3Fu%3D4be4c88953e99b9da4664ce642b90b8c1c6be4a9%26v%3D4" alt="rswaraj09 stats visual" />
+</p>
+
+<p><code>712 contributions</code> · <code>0 day streak</code></p>
+
+## Infrastructure shipped
+
+- **[skill-bridge](https://github.com/rswaraj09/skill-bridge)** — Featured public work · ⭐ 2
+- **[backend](https://github.com/rswaraj09/backend)** — Featured public work · ⭐ 1
+- **[rswaraj09](https://github.com/rswaraj09/rswaraj09)** — Featured public work · ⭐ 1
+- **[project-management-system](https://github.com/rswaraj09/project-management-system)** — Featured public work · ⭐ 1
+- **[E-Commerce-Website](https://github.com/rswaraj09/E-Commerce-Website)** — Featured public work · ⭐ 1
+- **[Library_management](https://github.com/rswaraj09/Library_management)** — Featured public work · ⭐ 1
+
+## Platform toolkit
+
+<p><code>rswaraj09@github:~$ toolbox --list</code></p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=rswaraj09&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F173189601%3Fu%3D4be4c88953e99b9da4664ce642b90b8c1c6be4a9%26v%3D4" alt="rswaraj09 stack visual" />
+</p>
+
+## Keep it moving
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=rswaraj09&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F173189601%3Fu%3D4be4c88953e99b9da4664ce642b90b8c1c6be4a9%26v%3D4" alt="rswaraj09 social visual" />
+</p>
+
+<a href="https://github.com/rswaraj09">GitHub</a> · <a href="https://ritik-swaraj.vercel.app/">Website</a>
+
+<p align="center"><sub>Ritik Swaraj · DevOps profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
