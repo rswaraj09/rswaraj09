@@ -4,13 +4,13 @@
   <img src="https://www.gitskins.com/api/section/hero?username=rswaraj09&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F173189601%3Fu%3D4be4c88953e99b9da4664ce642b90b8c1c6be4a9%26v%3D4" alt="rswaraj09 hero visual" />
 </p>
 
-**Ritik Swaraj** · Frontend or full-stack engineer
+**Ritik Swaraj** · Full-stack engineer
 
 ## Operating principles
 
 <pre><code>ROLE        = Frontend or full-stack engineer
 LOCATION    = Mumbai, Maharashtra 
-PUBLIC_REPOS = 29
+PUBLIC_REPOS = 30+
 COMMUNITY   = 10 followers</code></pre>
 
 Building useful things and learning in public.
@@ -27,16 +27,16 @@ Building useful things and learning in public.
   <img src="https://www.gitskins.com/api/section/stats?username=rswaraj09&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F173189601%3Fu%3D4be4c88953e99b9da4664ce642b90b8c1c6be4a9%26v%3D4" alt="rswaraj09 stats visual" />
 </p>
 
-<p><code>712 contributions</code> · <code>0 day streak</code></p>
+<p><code>500+ contributions</code> </p>
 
 ## Infrastructure shipped
 
 - **[skill-bridge](https://github.com/rswaraj09/skill-bridge)** — Featured public work · ⭐ 2
-- **[backend](https://github.com/rswaraj09/backend)** — Featured public work · ⭐ 1
-- **[rswaraj09](https://github.com/rswaraj09/rswaraj09)** — Featured public work · ⭐ 1
-- **[project-management-system](https://github.com/rswaraj09/project-management-system)** — Featured public work · ⭐ 1
-- **[E-Commerce-Website](https://github.com/rswaraj09/E-Commerce-Website)** — Featured public work · ⭐ 1
-- **[Library_management](https://github.com/rswaraj09/Library_management)** — Featured public work · ⭐ 1
+- **[voice-aasistant](https://github.com/rswaraj09/Voice-Assistant)** — Featured public work · ⭐ 1
+- **[code-arena](https://github.com/rswaraj09/CodeArena)** — Featured public work · ⭐ 1
+- **[Locality-Connector](https://github.com/rswaraj09/Locality-Connector)** — Featured public work · ⭐ 1
+- **[Saarthi](https://github.com/rswaraj09/Saarthi)** — Featured public work · ⭐ 1
+- **[Instagram-analytics](https://github.com/rswaraj09/instagram-analytics)** — Featured public work · ⭐ 1
 
 ## Platform toolkit
 
